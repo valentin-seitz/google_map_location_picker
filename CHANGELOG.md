@@ -1,3 +1,24 @@
+## 4.1.7
+
+* Updated deps to work with flutter stable 2.0.1
+
+## 4.1.6
+
+* use  `http: '>=0.12.2 <=0.13.0-nullsafety.0'`
+
+## 4.1.5
+
+* remove the upper bound for flutter
+
+## 4.1.4
+
+* remove `intl_translation` because it was not needed and was blocking migrating to nullsafety.
+* updated `intl` so support nullsafety.
+
+## 4.1.3
+
+* Updated deps.
+
 ## 4.1.2+1
 
 * Fixed an issue with the sample app.
